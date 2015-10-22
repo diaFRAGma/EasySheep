@@ -4,7 +4,7 @@ Im Spiel muss ein Makro angelegt werden mit folgendem Inhalt:
 /run EasySheep()
 
 Wenn man die Aktion ausführt wird 10 mal per Tab durch die Gegner gesprungen und überprüft ob einer mit einem
-Raidsymbolversehen ist. Wenn das vorher eingestellte Raidsymbol gefunden wurde, dann wird dieses in ein Schaf
+Raidsymbol versehen ist. Wenn das vorher eingestellte Raidsymbol gefunden wurde, dann wird dieses in ein Schaf
 verwandelt.
 
 Default = Stern
