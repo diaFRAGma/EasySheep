@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: EasySheep 1.0
+## SavedVariablesPerCharacter: EasySheepTarget
+## Version: 1.0
+## Notes-deDE: Wirkt Verwandlung auf ein fest vorgegebenes Ziel.
+## Author: Ambro
+EasySheep.lua

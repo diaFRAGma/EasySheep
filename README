@@ -1,0 +1,30 @@
+World of Warcraft 1.12.1 Addon für Magier zum sheepen
+
+Im Spiel muss ein Makro angelegt werden mit folgendem Inhalt:
+/run EasySheep()
+
+Wenn man die Aktion ausführt wird 10 mal per Tab durch die Gegner gesprungen und überprüft ob einer mit einem
+Raidsymbolversehen ist. Wenn das vorher eingestellte Raidsymbol gefunden wurde, dann wird dieses in ein Schaf
+verwandelt.
+
+Default = Stern
+
+Slash Command:
+/es oder /easysheep
+
+Das Ziel ist änderbar über folgende Befehle:
+/es stern
+/es kreis
+/es diamant
+/es dreieck
+/es mond
+/es viereck
+/es kreuz
+/es kopf
+
+Nützliche Links:
+World of Warcraft 1.12.1 API
+http://vanilla-wow.wikia.com/wiki/World_of_Warcraft_API
+http://www.wowwiki.com/index.php?title=World_of_Warcraft_API&oldid=281620
+Programming in Lua
+http://www.lua.org/pil/contents.html
